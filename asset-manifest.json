@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SummersPumps/static/css/main.281a20d3.chunk.css",
+    "main.js": "/SummersPumps/static/js/main.ac4df200.chunk.js",
+    "main.js.map": "/SummersPumps/static/js/main.ac4df200.chunk.js.map",
+    "runtime-main.js": "/SummersPumps/static/js/runtime-main.479c36fd.js",
+    "runtime-main.js.map": "/SummersPumps/static/js/runtime-main.479c36fd.js.map",
+    "static/css/2.6b6861cf.chunk.css": "/SummersPumps/static/css/2.6b6861cf.chunk.css",
+    "static/js/2.7ab673ea.chunk.js": "/SummersPumps/static/js/2.7ab673ea.chunk.js",
+    "static/js/2.7ab673ea.chunk.js.map": "/SummersPumps/static/js/2.7ab673ea.chunk.js.map",
+    "index.html": "/SummersPumps/index.html",
+    "precache-manifest.397ff6a5f797524ed93167430bb5e92d.js": "/SummersPumps/precache-manifest.397ff6a5f797524ed93167430bb5e92d.js",
+    "service-worker.js": "/SummersPumps/service-worker.js",
+    "static/css/2.6b6861cf.chunk.css.map": "/SummersPumps/static/css/2.6b6861cf.chunk.css.map",
+    "static/css/main.281a20d3.chunk.css.map": "/SummersPumps/static/css/main.281a20d3.chunk.css.map",
+    "static/js/2.7ab673ea.chunk.js.LICENSE": "/SummersPumps/static/js/2.7ab673ea.chunk.js.LICENSE",
+    "static/media/Pump-Truck-1.png": "/SummersPumps/static/media/Pump-Truck-1.0b93acbe.png",
+    "static/media/Video-Water-Filters-ex.jpg": "/SummersPumps/static/media/Video-Water-Filters-ex.a6d226a0.jpg",
+    "static/media/index.css": "/SummersPumps/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/wellPump.jpg": "/SummersPumps/static/media/wellPump.72ef6473.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.479c36fd.js",
+    "static/css/2.6b6861cf.chunk.css",
+    "static/js/2.7ab673ea.chunk.js",
+    "static/css/main.281a20d3.chunk.css",
+    "static/js/main.ac4df200.chunk.js"
+  ]
+}
