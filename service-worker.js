@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SummersPumps/precache-manifest.397ff6a5f797524ed93167430bb5e92d.js"
+  "/SummersPumps/precache-manifest.d7df1c9385ec49e023e6af83654330ba.js"
 );
 
 self.addEventListener('message', (event) => {
