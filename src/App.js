@@ -12,7 +12,8 @@ import TurnKey from './turnkey.png'
 const styles = {
   aboutUsImage: {
     backgroundImage: `url(${PumpTruck})`,
-    paddingBottom: `32rem`
+    height: `100%`,
+    backgroundRepeat: `no-repeat`
   },
   wellPumpImage: {
     backgroundImage: `url(${WellPump})`,
@@ -33,7 +34,7 @@ const styles = {
     fontFamily: `Montserrat`
   },
   aboutUsText: {
-    paddingTop: `15rem`
+    height: `100%`
   },
   aboutUs:{
     paddingBottom: `2rem`,
@@ -61,8 +62,10 @@ class App extends Component {
         </Grid>
         
         <Grid container style={styles.aboutUs} spacing={10}>
-          <Grid style={styles.aboutUsImage} key={0} item xs={6} />
-          <Grid key={1} item xs={6}>
+          <Grid key={0} item xs={6}>
+            <div style={styles.aboutUsImage}></div>
+          </Grid>
+          <Grid key={2} item xs={3}>
             <Typography style={styles.typography, styles.aboutUsText} align='center'>
               After buying a well drilling business in 1999, we are now expanding into the sales and service of pump systems. This is a true family business, as father, mother, sons and wives are all involved in various parts of this business. We still choose to be of ‘good character’ and ‘do things right’. Customer satisfaction is our primary goal.
             </Typography>
