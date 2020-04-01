@@ -53,11 +53,11 @@
 		<div class="content">
 			<div class="content-left">
 				<div class="content-left-header">
-					<h2>3rd Generation, Family Owned and Operated</h2>
+					<h2>What we can do for you</h2>
 				</div>
 				<div class="content-left-body">
 					Summers Well Drilling and Pumps is a family business and we treat our customers like family.
-					We operate three drill rigs to ensure a complete job in a timely manor. We pride ourselves in giving our customers the best service available from the first phone call all the way through putting the cap on your new well.<br /><br />
+					If you are needing to replace your well water pump or you need repairs, we can help you. Summers Pumps offers well water pump repair and replacement service, and we also provide water well pump installation. If you have recently moved to property or bought a business that needs a new well water pump or doesn’t have a well water pump, we are more than happy to help you! Our technicians are able to inspect your well and determine what kind of pump that is needed. Have questions? Give us a call. We offer free estimates on new installs.   <br /><br />
 					We work hard to make sure you get the best quality work at an affordable price. Our experienced staff can solve almost any water problem and eliminate common issues such as hardness and sulfur. We only use products that are made in the U.S. and source locally when available.<br /> <br />
 					Give us a call today to see what we can do for you.
 				</div>
