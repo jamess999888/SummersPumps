@@ -63,7 +63,7 @@
 				</div>
 			</div>
 			<div class="content-right">
-				<img src="/SummersDrilling/images/compressor.jpeg">
+				<img src="{{ '/images/compressor.jpeg' | relative_url }}">
 			</div>
 		</div>
 
