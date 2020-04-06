@@ -63,7 +63,7 @@
 				</div>
 			</div>
 			<div class="content-right">
-				<img src="/SummersDrilling/images/Yellow rig1.jpg">
+				<img src="/SummersDrilling/images/compressor.jpeg">
 			</div>
 		</div>
 
