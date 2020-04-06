@@ -70,7 +70,7 @@
 		<div class="bottom-block-links">
 					<a class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
-            				What filtration system do you need?
+            				Need a filtration system?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "Filtration Systems" page.
