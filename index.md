@@ -1,6 +1,6 @@
 <script src="{{ '/js/carousel.js?v=' | append: site.github.build_revision | relative_url }}"></script>
 <div id="root">
-	<div id="drilling">
+	<div id="pumpSystems">
 		<!-- Slideshow container -->
 		<div class="slideshow-container">
 
