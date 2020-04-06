@@ -70,18 +70,18 @@
 		<div class="bottom-block-links">
 					<a class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
-							Have an old unused well?
+            				Which filtration system is best for you?
 						</h2>
 						<div class="bottom-block-link-content">
-							Please refer to the "Plugging Abandoned Wells" page.
+							Please refer to the "Filtration Systems" page.
 						</div>
 					</a>
-					<a class="bottom-block-link" href="http://170.94.37.152/REGS/138.00.05-008F-8208.pdf">
+					<a class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
-							Looking for well drilling regulations?
+							Want a turn-key install?
 						</h2>
 						<div class="bottom-block-link-content">
-							Please refer to these rules posted by the Arkansas Natural Resources Commission.
+            				We can install your pump alone, or package it with drilling your new well.
 						</div>
 					</a>
 					<a class="bottom-block-link" href="/SummersDrilling/faq">
