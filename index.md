@@ -25,9 +25,9 @@
 		</div>
 		<div class="mid-page-lists">
 			<span class="mid-page-list-border">
-				<h3>Well Drilling Solutions</h3>
+				<h3>Worry Free Install</h3>
 				<div class="mid-page-info">
-					Offering drilling solutions for residential, commercial and agricultural projects.
+					Licensed, bonded and insured in Missouri, Arkansas and Oklahoma.
 				</div>
 			</span>
 			<span id="hideWhenSmall" class="mid-page-list-border mid-page-additional-section">
