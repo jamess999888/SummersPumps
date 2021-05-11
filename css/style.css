@@ -1037,7 +1037,7 @@ ul.topnav li h3 {
 
 ul.topnav li img {
     vertical-align: middle;
-    padding-right: 5%;
+    padding: 14px 16px;
 }
 
 ul.topnav li a:hover:not(.active) {
