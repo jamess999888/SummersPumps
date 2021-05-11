@@ -25,19 +25,19 @@
 		</div>
 		<div class="mid-page-lists">
 			<span class="mid-page-list-border">
-				<h4>Worry Free Install</h4>
+				<h2>Worry Free Install</h2>
 				<div class="mid-page-info">
 					ARKANSAS, OKLAHOMA, MISSOURI – LICENSED, BONDED, INSURED
 				</div>
 			</span>
 			<span id="hideWhenSmall" class="mid-page-list-border mid-page-additional-section">
-				<h4>Free Estimates</h4>
+				<h2>Free Estimates</h2>
 				<div class="mid-page-info">
 					Give us a call for a free estimate and consultation on well drilling and pump services.
 				</div>
 			</span>
 			<span id="hideWhenSmall" class="mid-page-additional-section">
-				<h4>Local Service</h4>
+				<h2>Local Service</h2>
 				<div class="mid-page-info">
 					Locally owned and operating out of Northeastern Oklahoma and servicing the tri-state area.
 				</div>
