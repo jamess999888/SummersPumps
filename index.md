@@ -74,6 +74,7 @@
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "Filtration Systems" page.
+							<br>
 							<a>More Info</a>
 						</div>
 					</div>
@@ -94,6 +95,7 @@ the same great service made even more affordable.
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "FAQ" page.
+							<br>
 							<a>More Info</a>
 						</div>
 					</div>
