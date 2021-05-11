@@ -68,15 +68,16 @@
 		</div>
 
 		<div class="bottom-block-links">
-					<a class="bottom-block-link">
+					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
             				Need a filtration system?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "Filtration Systems" page.
+							<a>More Info</a>
 						</div>
-					</a>
-					<a class="bottom-block-link">
+					</div>
+					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
 							Want a turn-key install?
 						</h2>
@@ -86,15 +87,16 @@ discount for the turn-key install. Staying with Summers Well Drilling and Pumps 
 pump means you get the same great service. We also offer a discount for the turn-key install, so you get
 the same great service made even more affordable.
 						</div>
-					</a>
-					<a class="bottom-block-link" href="/SummersDrilling/faq">
+					</div>
+					<div class="bottom-block-link" href="/SummersDrilling/faq">
 						<h2 class="bottom-block-link-header">
 							Have more questions?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "FAQ" page.
+							<a>More Info</a>
 						</div>
-					</a>
+					</div>
 				</div>
 	</div>
 </div>
