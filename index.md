@@ -81,7 +81,10 @@
 							Want a turn-key install?
 						</h2>
 						<div class="bottom-block-link-content">
-            				We can install your pump alone, or package it with drilling your new well.
+            				We offer a turn-key install, meaning we will install both the well and the pump. If also offer a
+discount for the turn-key install. Staying with Summers Well Drilling and Pumps for both your well or
+pump means you get the same great service. We also offer a discount for the turn-key install, so you get
+the same great service made even more affordable.
 						</div>
 					</a>
 					<a class="bottom-block-link" href="/SummersDrilling/faq">
