@@ -15,7 +15,7 @@
 		</div>
 
 		<div class="mySlides fade">
-			<img src="{{ '/images/Black 1 ton.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
+			<img src="{{ '/images/pumpInstall.jpeg?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
 		</div>
 
 		<!-- Next and previous buttons -->
