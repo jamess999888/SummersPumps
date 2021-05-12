@@ -49,7 +49,7 @@
                 </div>
             </div>
             <br>
-            <a>Contact Us for more information.</a>
+            <a href="http://www.summerswelldrilling.com/contactUs">Contact Us for more information.</a>
         </div>
     </div>
 </div>

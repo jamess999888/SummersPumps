@@ -90,7 +90,7 @@ pump means you get the same great service. We also offer a discount for the turn
 the same great service made even more affordable.
 							<br>
 							<br>
-							<a>Contact Us</a>
+							<a href="http://www.summerswelldrilling.com/contactUs">Contact Us</a>
 						</div>
 						
 					</div>
