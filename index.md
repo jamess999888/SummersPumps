@@ -76,7 +76,7 @@
 							Please refer to the "Filtration Systems" page.
 							<br>
 							<br>
-							<a>More Info</a>
+							<a  href="{{ 'filtrationSystems' | relative_url }}">More Info</a>
 						</div>
 					</div>
 					<div class="bottom-block-link">

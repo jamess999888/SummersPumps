@@ -1274,6 +1274,40 @@ ul.topnav li.right {
     padding-top: 1%;
 }
 
+#filtrationSystems .listHeader,
+#filtrationSystems .filtrationSystems-content {
+    display: inline-block;
+    padding: 2% 2% 2% 2%;
+    margin: 0 2%;
+}
+
+#filtrationSystems .list {
+    display: inline-block;
+    padding: 2% 2% 2% 2%;
+    margin: 0 2%;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+
+/* #filtrationSystems .left {
+    display: inline-block;
+    padding: 2% 2% 21% 2%;
+    margin: 0 2%;
+    vertical-align: middle;
+    text-decoration: none;
+} */
+
+#filtrationSystems ul {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#filtrationSystems b {
+    padding-bottom: 1%
+}
+
 
 /* 48em = 768px */
 
