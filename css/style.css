@@ -1281,10 +1281,12 @@ ul.topnav li.right {
 #filtrationSystems h1 {
     border-bottom: 1px solid #36569B;
     padding-bottom: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 #filtrationSystems div {
-    padding: 2% 20%;
+    padding: 2% 2%;
     text-align: center;
     width: 100%;
 }
