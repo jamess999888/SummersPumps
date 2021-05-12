@@ -1433,5 +1433,6 @@ ul.topnav li.right {
         display: block;
         padding: 2% 5%;
         width: 100%;
+        margin: 0 0;
     }
 }
