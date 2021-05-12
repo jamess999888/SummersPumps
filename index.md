@@ -102,7 +102,7 @@ the same great service made even more affordable.
 							Please refer to the "FAQ" page.
 							<br>
 							<br>
-							<a>More Info</a>
+							<a href="http://www.summerswelldrilling.com/faq">More Info</a>
 						</div>
 					</div>
 				</div>
