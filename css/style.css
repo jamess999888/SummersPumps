@@ -1321,15 +1321,6 @@ ul.topnav li.right {
     text-decoration: none;
 }
 
-
-/* #filtrationSystems .left {
-    display: inline-block;
-    padding: 2% 2% 21% 2%;
-    margin: 0 2%;
-    vertical-align: middle;
-    text-decoration: none;
-} */
-
 #filtrationSystems ul {
     display: inline-block;
     text-align: left;
@@ -1437,5 +1428,10 @@ ul.topnav li.right {
     }
     .collapsible-list {
         padding: 2% 0;
+    }
+    #filtrationSystems .outerList {
+        display: block;
+        padding: 2% 5%;
+        width: 100%;
     }
 }
