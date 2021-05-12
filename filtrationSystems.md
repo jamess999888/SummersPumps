@@ -3,7 +3,9 @@
 <div id="root">
     <div id="filtrationSystems">
         <div class="content">
-            <h1 class="filtrationSystems-header">Filtration Systems</h1>
+            <div class="filtrationSystems-header">
+                <h1>Filtration Systems</h1>
+            </div>
             <div class="outerList">
                 <div class="listHeader">
                     <h2>Filtration</h2>
