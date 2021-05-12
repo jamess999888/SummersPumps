@@ -1276,6 +1276,8 @@ ul.topnav li.right {
 
 #filtrationSystems h1 {
     background-color: #D4D6D5;
+    text-align: center;
+    padding-top: 1%;
     border-bottom: 1px solid #36569B;
     padding-bottom: 2%;
 }
