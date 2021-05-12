@@ -1274,6 +1274,29 @@ ul.topnav li.right {
     padding-top: 1%;
 }
 
+#filtrationSystems h1 {
+    text-align: center;
+    padding-top: 1%;
+}
+
+#filtrationSystems div {
+    padding: 2% 20%;
+    text-align: center;
+    width: 100%;
+}
+
+#filtrationSystems h2 {
+    padding: 2% 0;
+}
+
+#filtrationSystems .outerList {
+    display: inline-block;
+    padding: 2% 2% 2% 2%;
+    width: 40%;
+    margin: 0 2%;
+    vertical-align: text-top;
+}
+
 #filtrationSystems .listHeader,
 #filtrationSystems .filtrationSystems-content {
     display: inline-block;
