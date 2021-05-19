@@ -7,10 +7,6 @@
 		<!-- Full-width images with number and caption text -->
 
 		<div class="mySlides fade">
-			<img src="{{ '/images/pump.gif?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
-		</div>
-
-		<div class="mySlides fade">
 			<img src="{{ '/images/Pump-Truck-1.png?v=' | append: site.github.build_revision | relative_url }}" style="width:100%; height: calc(100vw * .4);">
 		</div>
 
@@ -76,7 +72,7 @@
 							Please refer to the "Filtration Systems" page.
 							<br>
 							<br>
-							<a  href="{{ 'filtrationSystems' | relative_url }}">More Info</a>
+							<button  href="{{ 'filtrationSystems' | relative_url }}">More Info</button>
 						</div>
 					</div>
 					<div class="bottom-block-link">
