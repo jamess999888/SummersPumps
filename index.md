@@ -70,10 +70,9 @@
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "Filtration Systems" page.
-							<br>
-							<br>
-							<button  href="{{ 'filtrationSystems' | relative_url }}">More Info</button>
 						</div>
+						
+						<button  href="{{ 'filtrationSystems' | relative_url }}">More Info</button>
 					</div>
 					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
