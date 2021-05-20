@@ -72,7 +72,7 @@
 							Please refer to the "Filtration Systems" page.
 						</div>
 						
-						<button  href="{{ 'filtrationSystems' | relative_url }}">More Info</button>
+						<a  href="{{ 'filtrationSystems' | relative_url }}"><button>More Info</button></a>
 					</div>
 					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
@@ -85,7 +85,7 @@ pump means you get the same great service. We also offer a discount for the turn
 the same great service made even more affordable.
 						</div>
 						
-							<button href="http://www.summerswelldrilling.com/contactUs">Contact Us</button>
+							<a href="http://www.summerswelldrilling.com/contactUs"><button>Contact Us</button></a>
 						
 					</div>
 					<div class="bottom-block-link">
@@ -96,7 +96,7 @@ the same great service made even more affordable.
 							Please refer to the "FAQ" page.
 						</div>
 						
-						<button href="http://www.summerswelldrilling.com/faq">More Info</button>
+						<a href="http://www.summerswelldrilling.com/faq"><button>More Info</button></a>
 					</div>
 				</div>
 	</div>
