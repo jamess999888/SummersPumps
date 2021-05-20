@@ -83,22 +83,20 @@
 discount for the turn-key install. Staying with Summers Well Drilling and Pumps for both your well or
 pump means you get the same great service. We also offer a discount for the turn-key install, so you get
 the same great service made even more affordable.
-							<br>
-							<br>
-							<button href="http://www.summerswelldrilling.com/contactUs">Contact Us</button>
 						</div>
 						
+							<button href="http://www.summerswelldrilling.com/contactUs">Contact Us</button>
+						
 					</div>
-					<div class="bottom-block-link" href="/SummersDrilling/faq">
+					<div class="bottom-block-link">
 						<h2 class="bottom-block-link-header">
 							Have more questions?
 						</h2>
 						<div class="bottom-block-link-content">
 							Please refer to the "FAQ" page.
-							<br>
-							<br>
-							<button href="http://www.summerswelldrilling.com/faq">More Info</button>
 						</div>
+						
+						<button href="http://www.summerswelldrilling.com/faq">More Info</button>
 					</div>
 				</div>
 	</div>
