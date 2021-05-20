@@ -1210,6 +1210,12 @@ ul.topnav li.right {
     color: #D4D6D5;
 }
 
+.bottom-block-link button {
+    background-color: #D4D6D5;
+    color: #36569B;
+    vertical-align: bottom;
+}
+
 .bottom-block-link-content {
     margin-top: 5%;
     font-size: 1rem;
