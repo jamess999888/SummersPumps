@@ -85,7 +85,7 @@ pump means you get the same great service. We also offer a discount for the turn
 the same great service made even more affordable.
 							<br>
 							<br>
-							<a href="http://www.summerswelldrilling.com/contactUs">Contact Us</a>
+							<button href="http://www.summerswelldrilling.com/contactUs">Contact Us</button>
 						</div>
 						
 					</div>
@@ -97,7 +97,7 @@ the same great service made even more affordable.
 							Please refer to the "FAQ" page.
 							<br>
 							<br>
-							<a href="http://www.summerswelldrilling.com/faq">More Info</a>
+							<button href="http://www.summerswelldrilling.com/faq">More Info</button>
 						</div>
 					</div>
 				</div>
